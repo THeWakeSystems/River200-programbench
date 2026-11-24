@@ -1,0 +1,2 @@
+submission.tar.gz filter=lfs diff=lfs merge=lfs -text
+*.eval.log.json filter=lfs diff=lfs merge=lfs -text
